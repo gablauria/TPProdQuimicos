@@ -1,0 +1,829 @@
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoL\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV2\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV3\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV4\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV5\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll.config
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod.DD6CF6E1.Up2Date
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV6 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll.config
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod.DD6CF6E1.Up2Date
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV7 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll.config
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod.DD6CF6E1.Up2Date
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV8 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll.config
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod.DD6CF6E1.Up2Date
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV9 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll.config
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\EditProductWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\EditProductWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod.DD6CF6E1.Up2Date
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV10 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll.config
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\EditProductWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\EditProductWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod.DD6CF6E1.Up2Date
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV11 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll.config
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\EditProductWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\EditProductWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod.DD6CF6E1.Up2Date
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV12 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll.config
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\EditProductWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\EditProductWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod.DD6CF6E1.Up2Date
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV13 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll.config
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\EditProductWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\EditProductWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod.DD6CF6E1.Up2Date
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+C:\Users\USUARIO\source\repos\TP2_Prod_Quimicos_GrupoLV14 DB\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.exe
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll.config
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.deps.json
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.runtimeconfig.json
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.AssemblyReference.cache
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\EditProductWindow.baml
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.baml
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\EditProductWindow.g.cs
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\StockWindow.g.cs
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\App.g.cs
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.cache
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL_MarkupCompile.lref
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.g.resources
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfoInputs.cache
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.AssemblyInfo.cs
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.sourcelink.json
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod.DD6CF6E1.Up2Date
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\refint\TP2_Prod_Quimicos_GrupoL.dll
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.pdb
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\TP2_Prod_Quimicos_GrupoL.genruntimeconfig.cache
+D:\Documents\GitHub\TPProdQuimicos\TP2_Prod_Quimicos_GrupoL\obj\Debug\net8.0-windows\ref\TP2_Prod_Quimicos_GrupoL.dll

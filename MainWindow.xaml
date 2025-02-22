@@ -1,0 +1,40 @@
+﻿<Window x:Class="TP2_Prod_Quimicos_GrupoL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TP2_Prod_Quimicos_GrupoL"
+        mc:Ignorable="d"
+        Title="Productos Químicos" Height="600" Width="800">
+    <Grid>
+        <StackPanel Margin="10">
+            <Label Content="Nombre del producto (10 dígitos)"/>
+            <TextBox x:Name="NombreProducto" Margin="5"/>
+            <Label Content="Código del producto (7 dígitos)"/>
+            <TextBox x:Name="CodigoProducto" Margin="5"/>
+            <Label Content="Laboratorio (25 dígitos)"/>
+            <TextBox x:Name="Laboratorio" Margin="5"/>
+            <Label Content="Especie"/>
+            <ComboBox x:Name="Especie" Margin="5">
+                <ComboBoxItem Content="Oral"/>
+                <ComboBoxItem Content="Pastillas"/>
+                <ComboBoxItem Content="Bebibles"/>
+                <ComboBoxItem Content="Inyectables"/>
+                <ComboBoxItem Content="Ampollas"/>
+            </ComboBox>
+            <Label Content="Precio de venta"/>
+            <TextBox x:Name="PrecioVenta" Margin="5"/>
+            <Label Content="Cantidad en stock"/>
+            <TextBox x:Name="CantidadStock" Margin="5"/>
+            <Label Content="Fecha de vencimiento"/>
+            <DatePicker x:Name="FechaVencimiento" Margin="5"/>
+            <CheckBox x:Name="Muestras" Margin="5" Content="Muestras"/>
+            <CheckBox x:Name="Permiso" Margin="5" Content="Permiso"/>
+            <CheckBox x:Name="Licencia" Margin="5" Content="Licencia"/>
+            <CheckBox x:Name="AmbienteRefrigerado" Margin="5" Content="Ambiente refrigerado"/>
+            <CheckBox x:Name="VentaLibre" Margin="5" Content="Venta libre"/>
+            <Button Content="Guardar Datos" Click="Button_Click" Margin="10"/>
+            <Button Content="Mostrar Stock" Click="MostrarStock_Click" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>
